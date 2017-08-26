@@ -1,0 +1,19 @@
+{
+  "name": "tinyrpc",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": {
+    "name": "wener",
+    "url": "https://github.com/wenerme"
+  },
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.48",
+    "typescript": "^2.4.2"
+  }
+}
