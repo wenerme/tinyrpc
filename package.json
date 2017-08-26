@@ -1,6 +1,7 @@
 {
   "name": "tinyrpc",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "A type safe rpc for es6 Proxy",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": {
